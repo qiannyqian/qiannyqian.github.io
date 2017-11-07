@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 You can call me Hui Qian, although most of my friends just call me Qian :) 
-About to graduate from the July 2017 cohort at NEXT Academy and based in Kuala Lumpur.
+July 2017 Graduate of NEXT Academy and currently based in Kuala Lumpur.
 
 My background is kind of a funny story, because how many Psychology graduates turned marketing execs turned web developers do you know?
 
