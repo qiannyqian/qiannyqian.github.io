@@ -12,4 +12,6 @@ Definitely a huge push out of my comfort zone but worth it for the experience!
 
 Many thanks to Faezrah for bringing me into the organising committee and also encouraging me to go for it and give the talks!
 
-Here's to getting more women in tech! 💪
+Here's to getting more women in tech! 💪 
+
+You can keep up to date with [Rails Girls KL on our Facebook page :)](https://facebook.com/railsgirlskl)
